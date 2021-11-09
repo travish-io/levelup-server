@@ -1,0 +1,27 @@
+[
+  {
+    "model": "levelupapi.game",
+    "pk": 1,
+    "fields": {
+      "game_type": 1,
+      "title": "title",
+      "maker": "maker",
+      "gamer": 1,
+      "number_of_players": 1,
+      "skill_level": 9001
+    }
+  },
+
+  {
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+      "game_type": 1,
+      "title": "title 2",
+      "maker": "maker 2",
+      "gamer": 1,
+      "number_of_players": 1,
+      "skill_level": 9001
+    }
+  }
+]
